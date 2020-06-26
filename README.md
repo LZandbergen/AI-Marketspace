@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This folder contains all files used by team Guanaco during the project to keep track of progress. 2 main folders exist, "UvA Zaken" contains everything related to the grading of the course, and the files needed for the University, such as a progress journal."Website" is a folder containing documents with respects to the development of the website. From ideas for the blog, to excel sheets to keep track of the contacts we have made. In this folder are also the SCRUM resources, such as our product and sprint backlogs. These were used to keep track of progress each week.
+This folder contains all files used by team Guanaco during the project to keep track of progress. 2 main folders exist, "UvA Zaken" contains everything related to the grading of the course, and the files needed for the University, such as a progress journal. "Website" is a folder containing documents with respects to the development of the website. From ideas for the blog, to excel sheets to keep track of the contacts we have made. In this folder are also the SCRUM resources, such as our product and sprint backlogs. These were used to keep track of progress each week.
 
 ## Editing the website
 
@@ -24,7 +24,7 @@ The e-mail section allows for the creation and management of e-mail addressess s
 The Wordpress environment requires a bit more explanation, since most of the website is managed from here. There are some plug-ins we used, which might need some explanation.
 
 ##### Adding blogs
-Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. It will automatically appear on the blog if the categories are set up.
+Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. It will automatically appear on the blog if the categories are set up. 
 
 ##### SEO
 
