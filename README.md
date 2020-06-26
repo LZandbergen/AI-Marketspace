@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Tweedejaarsproject Bsc KI
+# Team Guanaco
 
-You can use the [editor on GitHub](https://github.com/LZandbergen/AI-Marketspace/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This folder contains all files used by team Guanaco during the project to keep track of progress. 2 main folders exist, "UvA Zaken" contains everything related to the grading of the course, and the files needed for the University, such as a progress journal."Website" is a folder containing documents with respects to the development of the website. From ideas for the blog, to excel sheets to keep track of the contacts we have made. In this folder are also the SCRUM resources, such as our product and sprint backlogs. These were used to keep track of progress each week.
 
-### Markdown
+## Editing the website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The website we have built is focused around two platforms. Any real development, design and blog writing has been done via Wordpress. This is a user interface designed around making websites easy to develop and maintain. The website is hosted and managed via Vimexx, which is our hosting provider. Some back-end functions such as security certificates, and the creation of e-mails have been achieved on this platform.
 
-```markdown
-Syntax highlighted code block
+### Vimexx
 
-# Header 1
-## Header 2
-### Header 3
+Vimexx can be accessed by visiting vimexx.nl. Using our login data (which is highly personal and won't be shared without permission) the platform can be accessed. On the platform, most management is done in the DirectAdmin environment, which uses seperate logins. On vimexx you can manage the service used for hosting. An upgraded hosting server would mean that the site responds more quickly, or can manage more users and content.
 
-- Bulleted
-- List
+### DirectAdmin
 
-1. Numbered
-2. List
+In the DirectAdmin environment, a lot can be managed. You get access to the data usage of the website, settings for the domain, statistics, access via FTP, mail and a lot more features. Most of these options are too complex for basic operation and should not be changed. The only relevant parts of the page are the e-mail section and the SSL certificates.
 
-**Bold** and _Italic_ and `Code` text
+The e-mail section allows for the creation and management of e-mail addressess such as studenten@aimarketspace.nl. You can manage the spam filtering, automatic answers, or even log in with a mobile device. The SSL certificates ensure the website is safe for users, by enabling https. These certificates should be renewed automatically, but can be managed here. Other functions are not that important for basic maintanence.
 
-[Link](url) and ![Image](src)
-```
+### Wordpress
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The Wordpress environment requires a bit more explanation, since most of the website is managed from here. There are some plug-ins we used, which might need some explanation.
 
-### Jekyll Themes
+##### Adding blogs
+Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. It will automatically appear on the blog if the categories are set up.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LZandbergen/AI-Marketspace/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### SEO
 
-### Support or Contact
+Optimizing the blog you've just written is a relatively easy task, if the blog is written well. With the Yoast SEO plugin you can specify a keyword or phrase you want to optimize your post for. This does require some research, since some phrases might not be popular. Once a keyphrase is chosen, Yoast will provide tips to improve your score.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Creating new pages
+Creating new pages is also quite easy to do in Wordpress. In the pages overview a new page can easily be created by clicking "Add new". With the theme installed on the webpage, stylized blocks can be added to any page. This can be done in both the front-end and back-end editors. The former provides a realtime preview of the changes you're making, while the latter enables more customization and a better overview. Using these blocks, which can be customized extensively you can create the exact design you want.
+
+##### Customizing the theme
+
+The chosen theme, Uncode, is really flexible. In the tab for Uncode, a lot can be changed in the settings. These changes generally apply to all pages. So you can change the menu, the footer, the colouring of different elements, responsiveness on phones and much more. The instructions are easy to follow, and every setting has a help bubble to provide more explanation. Once you have customized a page, don't forget to publish it for everyone to see. Afterwards you can still make any change you see fit.
+
+
+## Closing words
+
+This basic guide should be enough to get started customizing the pages, creating blogs for the website, ad changing any necessary settings. Other plug-ins and options are also well explained, so a bit of googling should do the trick. Good luck!
