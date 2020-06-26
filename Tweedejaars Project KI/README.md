@@ -5,13 +5,15 @@
 
 This folder contains all files used by team Guanaco during the project to keep track of progress. 2 main folders exist, "UvA Zaken" contains everything related to the grading of the course, and the files needed for the University, such as a progress journal."Website" is a folder containing documents with respects to the development of the website. From ideas for the blog, to excel sheets to keep track of the contacts we have made. In this folder are also the SCRUM resources, such as our product and sprint backlogs. These were used to keep track of progress each week.
 
+In this file there is also a short guide for possible users who would want to continue working on the website and are completely new to Wordpress. This also serves as a short explainer for any services we used.
+
 ## Editing the website
 
 The website we have built is focused around two platforms. Any real development, design and blog writing has been done via Wordpress. This is a user interface designed around making websites easy to develop and maintain. The website is hosted and managed via Vimexx, which is our hosting provider. Some back-end functions such as security certificates, and the creation of e-mails have been achieved on this platform.
 
 ### Vimexx
 
-Vimexx can be accessed by visiting vimexx.nl. Using our login data (which is highly personal and won't be shared without permission) the platform can be accessed. On the platform, most management is done in the DirectAdmin environment, which uses seperate logins. On vimexx you can manage the service used for hosting. An upgraded hosting server would mean that the site responds more quickly, or can manage more users and content.
+Vimexx can be accessed by visiting vimexx.nl. Using our login data (which is highly personal and won't be shared without permission) the platform can be accessed. On the platform, most management is done in the DirectAdmin environment, which uses seperate logins. On vimexx you can manage the service used for hosting. An upgraded hosting server would mean that the site responds more quickly, or can manage more users and content. On this platform it is also possible to manage the domains. For example, aimarketspace.online has been set up to forward to aimarketspace.nl
 
 ### DirectAdmin
 
@@ -21,10 +23,10 @@ The e-mail section allows for the creation and management of e-mail addressess s
 
 ### Wordpress
 
-The Wordpress environment requires a bit more explanation, since most of the website is managed from here. There are some plug-ins we used, which might need some explanation.
+The Wordpress environment requires a bit more explanation, since most of the website is managed from here. There are some plug-ins we used, which might need some explanation. In general the Wordpress
 
 ##### Adding blogs
-Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. It will automatically appear on the blog if the categories are set up.
+Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. Start writing, as if using a Word processor. After writing your blog you can specify relevant categories It will automatically appear on the blog if the categories are set up.
 
 ##### SEO
 
