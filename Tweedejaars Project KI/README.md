@@ -19,7 +19,9 @@ Vimexx can be accessed by visiting vimexx.nl. Using our login data (which is hig
 
 In the DirectAdmin environment, a lot can be managed. You get access to the data usage of the website, settings for the domain, statistics, access via FTP, mail and a lot more features. Most of these options are too complex for basic operation and should not be changed. The only relevant parts of the page are the e-mail section and the SSL certificates.
 
-The e-mail section allows for the creation and management of e-mail addressess such as studenten@aimarketspace.nl. You can manage the spam filtering, automatic answers, or even log in with a mobile device. The SSL certificates ensure the website is safe for users, by enabling https. These certificates should be renewed automatically, but can be managed here. Other functions are not that important for basic maintanence.
+The e-mail section allows for the creation and management of e-mail addressess such as studenten@aimarketspace.nl. You can manage the spam filtering, automatic answers, or even log in with a mobile device. The SSL certificates ensure the website is safe for users, by enabling https. These certificates should be renewed automatically, but can be managed here. Other functions are not that important for basic maintanence. The environment is shown below:
+
+![DirectAdmin environment](https://i.imgur.com/bqB05z0.png "DirectAdmin environment")
 
 ### Wordpress
 
