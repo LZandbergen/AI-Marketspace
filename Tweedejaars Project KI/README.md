@@ -28,7 +28,8 @@ The e-mail section allows for the creation and management of e-mail addressess s
 The Wordpress environment requires a bit more explanation, since most of the website is managed from here. There are some plug-ins we used, which might need some explanation. In general the Wordpress
 
 ##### Adding blogs
-Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. Start writing, as if using a Word processor. After writing your blog you can specify relevant categories It will automatically appear on the blog if the categories are set up.
+Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. Start writing, as if using a Word processor. After writing your blog you can specify relevant categories It will automatically appear on the blog if the categories are set up. The environment should look as follows:
+![Wordpress writer](https://i.imgur.com/xHGCKuk.png)
 
 ##### SEO
 
