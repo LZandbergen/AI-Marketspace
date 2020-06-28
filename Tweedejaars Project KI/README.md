@@ -29,11 +29,14 @@ The Wordpress environment requires a bit more explanation, since most of the web
 
 ##### Adding blogs
 Adding new blog posts to the website is quite a simple process. Wordpress offers a built-in environment for writing simple blogs, with the ability to write text, include images, set links and so on. Just click on posts and add a new one. Start writing, as if using a Word processor. After writing your blog you can specify relevant categories It will automatically appear on the blog if the categories are set up. The environment should look as follows:
-![Wordpress writer](https://i.imgur.com/xHGCKuk.png)
+
+![Wordpress writer](https://i.imgur.com/xHGCKuk.png "Wordpress writer")
 
 ##### SEO
 
-Optimizing the blog you've just written is a relatively easy task, if the blog is written well. With the Yoast SEO plugin you can specify a keyword or phrase you want to optimize your post for. This does require some research, since some phrases might not be popular. Once a keyphrase is chosen, Yoast will provide tips to improve your score.
+Optimizing the blog you've just written is a relatively easy task, if the blog is written well. With the Yoast SEO plugin you can specify a keyword or phrase you want to optimize your post for. This does require some research, since some phrases might not be popular. Once a keyphrase is chosen, Yoast will provide tips to improve your score. This is wat that should look like:
+
+![Yoast SEO](https://i.imgur.com/1Cq7LDH.png "Yoast SEO")
 
 ##### Creating new pages
 Creating new pages is also quite easy to do in Wordpress. In the pages overview a new page can easily be created by clicking "Add new". With the theme installed on the webpage, stylized blocks can be added to any page. This can be done in both the front-end and back-end editors. The former provides a realtime preview of the changes you're making, while the latter enables more customization and a better overview. Using these blocks, which can be customized extensively you can create the exact design you want.
